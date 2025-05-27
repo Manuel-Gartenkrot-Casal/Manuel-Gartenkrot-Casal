@@ -1,4 +1,5 @@
-![Mono facha](https://media1.giphy.com/media/qixJFUXq1UNLa/giphy.gif)
+![Mono facha](https://media3.giphy.com/media/1wqYonEBtues7jlngs/giphy.gif)
+
 # ¡Hola, soy Manuel!
 
 Soy estudiante principiante en desarrollo web y programación. Actualmente estoy aprendiendo y mejorando mis habilidades en:
