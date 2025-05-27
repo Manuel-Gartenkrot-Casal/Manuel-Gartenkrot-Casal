@@ -1,4 +1,4 @@
-![Mono facha](./assets/mono-facha.gif)
+![Mono codea](./assets/monocodea.gif)
 
 # ¡Hola, soy Manuel!
 
@@ -16,3 +16,4 @@ Estoy en constante aprendizaje y buscando mejorar mis conocimientos en programac
 - 📧 Email: manucasal07@gmail.com
 
 ¡Gracias por visitar mi perfil! 🚀  
+![Mono facha](./assets/mono-facha.gif)
