@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Manuel!
 
-<!--
-**Manuel-Gartenkrot-Casal/Manuel-Gartenkrot-Casal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante principiante en desarrollo web y programación. Actualmente estoy aprendiendo y mejorando mis habilidades en:
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías que manejo
+- 🏗️ **HTML** – Creando estructuras web sólidas.
+- 🖥️ **C#** – Explorando el mundo del backend.
+- ⚡ **JavaScript** – Dando vida y dinamismo a las páginas web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivo
+Estoy en constante aprendizaje y buscando mejorar mis conocimientos en programación y desarrollo web. ¡Siempre dispuesto a explorar nuevos desafíos!
+
+## 📫 Contacto
+- 📧 Email: manucasal07@gmail.com
+
+¡Gracias por visitar mi perfil! 🚀  
