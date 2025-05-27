@@ -1,4 +1,4 @@
-![Mono facha](https://media3.giphy.com/media/1wqYonEBtues7jlngs/giphy.gif)
+![Mono facha](./assets/mono-facha.gif)
 
 # ¡Hola, soy Manuel!
 
