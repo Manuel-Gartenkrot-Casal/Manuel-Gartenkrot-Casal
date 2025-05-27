@@ -1,4 +1,4 @@
-![Mono Facha](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODN5OWh4bzk1ZXUyeHVmeWl6cmY3dDB1eG85YjRjODVsNzJuOGVqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qixJFUXq1UNLa/giphy.gif)
+![mono facha](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODN5OWh4bzk1ZXUyeHVmeWl6cmY3dDB1eG85YjRjODVsNzJuOGVqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qixJFUXq1UNLa/giphy.gif)
 # ¡Hola, soy Manuel!
 
 Soy estudiante principiante en desarrollo web y programación. Actualmente estoy aprendiendo y mejorando mis habilidades en:
