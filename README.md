@@ -1,57 +1,61 @@
-Manuel Gartenkrot Casal
-Desarrollador orientado a proyectos MVC en C# con experiencia en frontend (HTML, CSS, JavaScript) y conocimientos prácticos de bases de datos SQL. Estudiante de Ingeniería en Informática en ORT Almagro. Actualmente desarrollando Keepi, una aplicación para gestionar el inventario de la heladera y reducir el desperdicio alimentario.
+██████  ██  ██  █████  ██  ███████ 
+██   ██ ██  ██ ██   ██ ██ ██       
+██████  ██████ ███████ ██ █████    
+██      ██  ██ ██   ██ ██ ██       
+██      ██  ██ ██   ██ ██ ███████  
 
-Sobre mí
-Ubicación: Buenos Aires, Argentina
+# Manuel Gartenkrot Casal
+Desarrollador full‑stack orientado a backend con especialización en proyectos MVC en C#. Actualmente desarrollando **Keepi**, una aplicación para administrar el inventario de la heladera y reducir el desperdicio alimentario.
 
-Formación: Estudiante de Ingeniería en Informática — ORT Almagro
+---
 
-Perfil: Backend enfocado en ASP.NET MVC; buenas prácticas en arquitectura, separación de responsabilidades y diseño de modelos relacionales
+## Resumen profesional
+- **Ubicación:** Buenos Aires, Argentina  
+- **Formación:** Ingeniería en Informática — ORT Almagro  
+- **Enfoque:** Desarrollo de aplicaciones web con arquitectura limpia, patrones MVC y buenas prácticas (SOLID, separación de responsabilidades)  
+- **Certificación:** SQL Basic (HackerRank)  
+- **LinkedIn:** https://www.linkedin.com/in/manuel-gartenkrot-casal-63573b369/
 
-Certificación: SQL Basic (HackerRank)
+---
 
-LinkedIn: https://www.linkedin.com/in/manuel-gartenkrot-casal-63573b369/
+## Stack técnico
+- **Lenguajes:** C#, SQL, HTML5, CSS3, JavaScript  
+- **Backend:** ASP.NET MVC, Entity Framework  
+- **Bases de datos:** SQL relacional; modelado, consultas y migraciones  
+- **Herramientas:** Visual Studio, Git  
+- **Prácticas:** DTOs, repositorios, validaciones servidor/cliente, asincronía para I/O
 
-Tech stack principal
-Lenguajes: C#, SQL, HTML5, CSS3, JavaScript (vanilla)
+---
 
-Frameworks y herramientas: ASP.NET MVC, Entity Framework, Visual Studio, Git
+## Proyecto destacado
+### Keepi — Gestor inteligente de heladera
+Keepi ayuda a llevar el inventario de tu heladera, anticipar vencimientos y reducir desperdicios, priorizando usabilidad y arquitectura modular para facilitar mantenimiento y escalado.
 
-Bases de datos: SQL relacional (modelado, consultas, migraciones)
+- **Estado:** Desarrollo avanzado  
+- **Funcionalidades clave:** CRUD de productos; categorías; filtros por fecha de vencimiento; alertas; historial de consumo; export/import CSV/JSON; interfaz responsive  
+- **Tecnologías:** C# (ASP.NET MVC), SQL, HTML/CSS, JavaScript
 
-Buenas prácticas: SOLID, DTOs, validaciones del lado servidor, patrones de repositorio, uso de asincronía para I/O
+---
 
-Proyectos destacados
-Keepi — Gestor inteligente de heladera
-Descripción: Aplicación web para llevar el inventario de la heladera, administrar fechas de vencimiento y reducir desperdicios.
+## Cómo colaboro
+- Ramas por feature (`feature/descripcion`), commits atómicos y descriptivos  
+- PRs con explicación clara y capturas si hay cambios en UI  
+- Aprecio feedback sobre arquitectura, rendimiento y UX  
+- Contribuciones bienvenidas: tests automatizados, notificaciones, PWA, OCR/QR
 
-Estado: Desarrollo avanzado
+---
 
-Funcionalidades clave: CRUD de productos; categorías; filtros por fecha de vencimiento; alertas; historial de consumo; export/import CSV/JSON; interfaz responsive.
+## Objetivos profesionales
+- Implementar notificaciones push y por correo para Keepi  
+- Convertir Keepi en PWA o app móvil ligera  
+- Añadir escaneo de etiquetas (OCR/QR) para carga rápida de productos  
+- Mejorar analítica: predicción de consumo y sugerencias de recetas
 
-Tecnologías: C# (ASP.NET MVC), SQL, HTML/CSS, JavaScript.
+---
 
-Notas: Arquitectura modular pensada para escalar a API REST, PWA o integración con notificaciones en el futuro.
+## Contacto
+- **LinkedIn:** https://www.linkedin.com/in/manuel-gartenkrot-casal-63573b369/
 
-Cómo colaborar
-Antes de empezar: Revisar issues abiertas y la documentación del repositorio.
+---
 
-Flujo recomendado: Crear branch por feature (feature/nombre-descriptivo), commits atómicos y descripciones claras.
-
-Pull requests: Incluir descripción de cambios, screenshots si afectan UI y tests cuando corresponda.
-
-Contribuciones bienvenidas: mejoras de UX, integración de notificaciones, tests automatizados, optimización de consultas SQL.
-
-Objetivos a corto y mediano plazo
-Implementar notificaciones por correo o push para vencimientos próximos
-
-Convertir la aplicación en PWA o desarrollar una app móvil ligera
-
-Añadir escaneo de etiquetas (OCR/QR) para carga rápida de productos
-
-Mejorar analítica: predicción de consumo y sugerencias de recetas con lo que hay en la heladera
-
-Contacto
-LinkedIn: https://www.linkedin.com/in/manuel-gartenkrot-casal-63573b369/
-
-Preferencias de colaboración: Feedback técnico, revisiones de código y propuestas concretas para Keepi
+Made with clarity and focus — disponible para revisiones de código, pair programming y colaboraciones técnicas.
