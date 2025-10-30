@@ -1,25 +1,25 @@
 Manuel Gartenkrot Casal
-Desarrollador orientado a proyectos MVC en C# con foco en aplicaciones web bien estructuradas, experiencia en frontend (HTML, CSS, JavaScript) y conocimiento práctico de bases de datos SQL. Actualmente avanzando en un proyecto propio llamado Keepi, una solución para gestionar el contenido de la heladera y reducir desperdicio alimentario.
+Desarrollador orientado a proyectos MVC en C# con experiencia en frontend (HTML, CSS, JavaScript) y conocimientos prácticos de bases de datos SQL. Estudiante de Ingeniería en Informática en ORT Almagro. Actualmente desarrollando Keepi, una aplicación para gestionar el inventario de la heladera y reducir el desperdicio alimentario.
 
 Sobre mí
 Ubicación: Buenos Aires, Argentina
 
-Formación: Estudiante de Ingeniería en Informática en ORT Almagro
+Formación: Estudiante de Ingeniería en Informática — ORT Almagro
 
-Perfil profesional: Desarrollo backend con .NET MVC; buenas prácticas en arquitectura, separación de responsabilidades y diseño de modelos relacionales.
+Perfil: Backend enfocado en ASP.NET MVC; buenas prácticas en arquitectura, separación de responsabilidades y diseño de modelos relacionales
 
-Certificaciones: SQL Basic (Hackerrank)
+Certificación: SQL Basic (HackerRank)
 
 LinkedIn: https://www.linkedin.com/in/manuel-gartenkrot-casal-63573b369/
 
 Tech stack principal
 Lenguajes: C#, SQL, HTML5, CSS3, JavaScript (vanilla)
 
-Frameworks / Herramientas: ASP.NET MVC, Entity Framework (opcional), Visual Studio, Git
+Frameworks y herramientas: ASP.NET MVC, Entity Framework, Visual Studio, Git
 
-Bases de datos: SQL relacional (modelado y consultas)
+Bases de datos: SQL relacional (modelado, consultas, migraciones)
 
-Otros: Principios SOLID, patrones MVC, validaciones del lado servidor, diseño responsive
+Buenas prácticas: SOLID, DTOs, validaciones del lado servidor, patrones de repositorio, uso de asincronía para I/O
 
 Proyectos destacados
 Keepi — Gestor inteligente de heladera
@@ -27,22 +27,31 @@ Descripción: Aplicación web para llevar el inventario de la heladera, administ
 
 Estado: Desarrollo avanzado
 
-Características clave: CRUD de productos, filtros por fecha y categoría, alertas de vencimiento, historial de consumo, import/export de inventario.
+Funcionalidades clave: CRUD de productos; categorías; filtros por fecha de vencimiento; alertas; historial de consumo; export/import CSV/JSON; interfaz responsive.
 
-Tecnologías: C# (MVC), SQL, HTML/CSS, JavaScript.
+Tecnologías: C# (ASP.NET MVC), SQL, HTML/CSS, JavaScript.
 
-Repositorio: (incluir enlace al repo si corresponde)
+Notas: Arquitectura modular pensada para escalar a API REST, PWA o integración con notificaciones en el futuro.
 
-Cómo colaborar o contactarme
-Contribuciones: Abierto a feedback técnico, revisiones de código y propuestas de features para Keepi.
+Cómo colaborar
+Antes de empezar: Revisar issues abiertas y la documentación del repositorio.
 
-Preferencia para PRs: ramas por feature, commits atómicos, descripción clara en el PR y screenshots cuando aplique.
+Flujo recomendado: Crear branch por feature (feature/nombre-descriptivo), commits atómicos y descripciones claras.
 
-Contacto: Mensaje directo en LinkedIn (link arriba) o abrir un issue en el repositorio del proyecto.
+Pull requests: Incluir descripción de cambios, screenshots si afectan UI y tests cuando corresponda.
 
-Objetivos y próximos pasos
-Implementar notificaciones (push/correo) para alertas de vencimiento
+Contribuciones bienvenidas: mejoras de UX, integración de notificaciones, tests automatizados, optimización de consultas SQL.
 
-Convertir Keepi en PWA o app móvil para uso en cocina
+Objetivos a corto y mediano plazo
+Implementar notificaciones por correo o push para vencimientos próximos
 
-Añadir escaneo de etiquetas (OCR/QR) y recomendaciones/recetas basadas en inventario
+Convertir la aplicación en PWA o desarrollar una app móvil ligera
+
+Añadir escaneo de etiquetas (OCR/QR) para carga rápida de productos
+
+Mejorar analítica: predicción de consumo y sugerencias de recetas con lo que hay en la heladera
+
+Contacto
+LinkedIn: https://www.linkedin.com/in/manuel-gartenkrot-casal-63573b369/
+
+Preferencias de colaboración: Feedback técnico, revisiones de código y propuestas concretas para Keepi
