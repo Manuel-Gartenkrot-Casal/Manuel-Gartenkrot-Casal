@@ -1,61 +1,46 @@
-██████  ██  ██  █████  ██  ███████ 
-██   ██ ██  ██ ██   ██ ██ ██       
-██████  ██████ ███████ ██ █████    
-██      ██  ██ ██   ██ ██ ██       
-██      ██  ██ ██   ██ ██ ███████  
+<h2 align="left">Sobre mí:</h2>
 
-# Manuel Gartenkrot Casal
-Desarrollador full‑stack orientado a backend con especialización en proyectos MVC en C#. Actualmente desarrollando **Keepi**, una aplicación para administrar el inventario de la heladera y reducir el desperdicio alimentario.
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="60" alt="behance logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo"  />
+</div>
 
-## Resumen profesional
-- **Ubicación:** Buenos Aires, Argentina  
-- **Formación:** Ingeniería en Informática — ORT Almagro  
-- **Enfoque:** Desarrollo de aplicaciones web con arquitectura limpia, patrones MVC y buenas prácticas (SOLID, separación de responsabilidades)  
-- **Certificación:** SQL Basic (HackerRank)  
-- **LinkedIn:** https://www.linkedin.com/in/manuel-gartenkrot-casal-63573b369/
+###
 
----
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+</div>
 
-## Stack técnico
-- **Lenguajes:** C#, SQL, HTML5, CSS3, JavaScript  
-- **Backend:** ASP.NET MVC, Entity Framework  
-- **Bases de datos:** SQL relacional; modelado, consultas y migraciones  
-- **Herramientas:** Visual Studio, Git  
-- **Prácticas:** DTOs, repositorios, validaciones servidor/cliente, asincronía para I/O
+###
 
----
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manuel-Gartenkrot-Casal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Manuel-Gartenkrot-Casal&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-## Proyecto destacado
-### Keepi — Gestor inteligente de heladera
-Keepi ayuda a llevar el inventario de tu heladera, anticipar vencimientos y reducir desperdicios, priorizando usabilidad y arquitectura modular para facilitar mantenimiento y escalado.
+###
 
-- **Estado:** Desarrollo avanzado  
-- **Funcionalidades clave:** CRUD de productos; categorías; filtros por fecha de vencimiento; alertas; historial de consumo; export/import CSV/JSON; interfaz responsive  
-- **Tecnologías:** C# (ASP.NET MVC), SQL, HTML/CSS, JavaScript
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manuel-Gartenkrot-Casal/Manuel-Gartenkrot-Casal/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manuel-Gartenkrot-Casal/Manuel-Gartenkrot-Casal/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Manuel-Gartenkrot-Casal/Manuel-Gartenkrot-Casal/output/pacman-contribution-graph.svg">
+</picture>
 
----
-
-## Cómo colaboro
-- Ramas por feature (`feature/descripcion`), commits atómicos y descriptivos  
-- PRs con explicación clara y capturas si hay cambios en UI  
-- Aprecio feedback sobre arquitectura, rendimiento y UX  
-- Contribuciones bienvenidas: tests automatizados, notificaciones, PWA, OCR/QR
-
----
-
-## Objetivos profesionales
-- Implementar notificaciones push y por correo para Keepi  
-- Convertir Keepi en PWA o app móvil ligera  
-- Añadir escaneo de etiquetas (OCR/QR) para carga rápida de productos  
-- Mejorar analítica: predicción de consumo y sugerencias de recetas
-
----
-
-## Contacto
-- **LinkedIn:** https://www.linkedin.com/in/manuel-gartenkrot-casal-63573b369/
-
----
-
-Made with clarity and focus — disponible para revisiones de código, pair programming y colaboraciones técnicas.
+###
